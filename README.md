@@ -1,5 +1,3 @@
 # TareaPython
 
-
-
-[![Travis](https://travis-ci.org/LeonQuezada/TareaPython.svg)](https://travis-ci.org/LeonQuezada/TareaPython.svg)
+[![Travis](https://travis-ci.org/LeonQuezada/area-de-figura.svg)](https://travis-ci.org/LeonQuezada/area-de-figura.svg)
